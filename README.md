@@ -2,7 +2,7 @@
 
 ### Purpose: 
 
-- Use Bootstrap5 to build a simple Login Form page.
+- Use Bootstrap5 to build a simple Login Form page in Chinese.
 
 <img src="" width=500>
 
