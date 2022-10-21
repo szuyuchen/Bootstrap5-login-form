@@ -4,7 +4,7 @@
 
 - Use Bootstrap5 to build a simple Login Form page in Chinese.
 
-<img src="" width=500>
+<img src="https://raw.githubusercontent.com/szuyuchen/Bootstrap5-login-form/50945cc75814e4fc8c72ad31479c4ac006db807f/sample-image.png" width=500>
 
 ### Page link:
 
